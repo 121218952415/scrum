@@ -7,7 +7,7 @@ responsable de un equipo y  se asegura una guia de trabajo git add .
  entiende la teoria y la practica 
 FACILITADOR 
 
-Toma decisiones proactivas asiste a conversaciones y a tener conversaciones  efectiva y altamente productivas y tomar decisiones  
+Toma decisiones proactivas asiste a conversaciones y a tener conversaciones  efectiva y altamente productivas y tomar desiciones  
 
 ENTRENADOR 
 
