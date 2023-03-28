@@ -38,3 +38,18 @@ Toma decisiones proactivas asiste a conversaciones y a tener conversaciones  efe
 ENTRENADOR 
 
 le ayude a personas a entender  equipo y organisacion a comprender el trabajo 
+
+Transparencia
+
+El product backlog debe ser transparente para todos.
+El incremento se revisan en el sprint review, se debe saber que hicimos a lo largo del sprint (a nivel producto).
+
+Inspección
+
+La Sprint Review no se debe presentar con diapositivas, se debe inspeccionar el incremento del producto, el cliente debe interactuar con el producto que se ha llegado a construir en el sprint.
+
+Adaptación
+
+Cuando el cliente interactua con el producto nos puede dar un feedback directo (ej: me funciona, me sirve, no es lo que esperaba, me gustaría cambiar esto, etc) o bien, indirecto (detectar lenguaje corporal, el comportamiento que el cliente tiene al interactuar con el producto). Debemos notar irregularidades para mejorar y transmitir mejor el mensaje del producto.
+
+Esta adaptación ocurre en la siguiente sprint Planning. Debemos planear que vamos a hacer de cara al siguiente sprint para mejorar nuestro incremento de producto.
